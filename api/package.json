@@ -1,0 +1,17 @@
+{
+    "name": "question",
+    "version": "1.0.0",
+    "description": "Ssample question db",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "bcrypt": "^3.0.0",
+        "body-parser": "*",
+        "express": "*",
+        "mongoose": "*"
+    },
+    "author": "Shashikant Pathak",
+    "license": "ISC"
+}

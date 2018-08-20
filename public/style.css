@@ -1,0 +1,68 @@
+.margin-top-50 {
+    margin-top: 50px;
+ }
+ 
+ .margin-top-10 {
+    margin-top: 10px;
+ }
+ 
+ .legend{
+    font-size: 24px;
+    padding: 10px;
+    background-color: lavender;
+    color: #39424e;
+ }
+ 
+ .MuiAppBar-colorPrimary-10{
+    background-color: #39424e !important;
+ }
+ 
+ .logo {
+    font-size: 35px;
+    padding-right: 10px;
+    vertical-align: baseline;
+ }
+ 
+ .btn-white{
+    color: white !important;
+ }
+ 
+ .btn-panel{
+    height: 140px;
+    width: 200px;
+    background-color: white;
+    border-radius: 1em;
+    color: #39424e;;
+ }
+ 
+ .btn-label{
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 5px;
+    font-weight: bold;
+ }
+ 
+ .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: white;
+ }
+ 
+ .action-panel{
+    float: right;
+    margin-top: 10px;
+    margin-bottom: -15px;
+ }
+ 
+ .action-panel button
+ {
+    margin-right: 10px;
+    border-color: #39424e !important;
+ }
+ 
+ th {
+    font-size: 16px !important;
+ }
