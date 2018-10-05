@@ -20,11 +20,11 @@ A step by step  guide that tell you how to get a development env running
 
 **_`Clone the github project`_**
 ```sh
- $ git clone https://github.com/shashikantpathakk/CodeChallenge.git
+ $ git clone https://github.com/Ritzrawal/Code-challange-Website.git
 ```
 **_`Navigate to project directory`_**
 ```sh
- $ cd Code Challenge
+ $ cd Code-challange-Website
 ```
 
 **_`Install the dependencies`_**
